@@ -1,4 +1,4 @@
-add()
-subtract ()
-multiple()
-divide()
+function add(+)
+function subtract (-)
+function multiple(*)
+function divide(/)
